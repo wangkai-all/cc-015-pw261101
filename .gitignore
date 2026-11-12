@@ -7,3 +7,8 @@ node_modules/
 __pycache__/
 .claude/
 .cc-workbench/
+data/
+logs/
+frontend/dist/
+.npm-cache/
+*.pyc
